@@ -12,9 +12,9 @@ Clone the repository:
 
 Run CMake and Make:
 
-`cmake .
+`cmake .`
 
-make`
+`make`
 
 Execute:
 
