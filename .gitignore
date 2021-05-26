@@ -38,3 +38,20 @@ cmake_install.cmake
 CMakeFiles/
 CMakeCache.txt
 Makefile
+
+# ignores following folders
+bin/
+build/
+Debug/
+GLAD.dir/
+STB_IMAGE.dir/
+tw.dir/
+x64/
+x32/
+
+# Visual C++ Crap
+
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
