@@ -3,7 +3,6 @@
 #include <glm/glm.hpp>
 #include <iostream>
 #include <GLFW/glfw3.h>
-#define GLFW_DLL
 
 using namespace std;
 using namespace glm;
