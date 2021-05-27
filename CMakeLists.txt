@@ -69,7 +69,7 @@ macro(makeLink src dest target)
 endmacro()
 
 add_executable(tw
-	src/hello_window.cpp
+	src/main.cpp
 	)
 target_link_libraries(tw ${LIBS})
 # if compiling for visual studio, also use configure file for each project (specifically to set up working directory)
