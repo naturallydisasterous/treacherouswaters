@@ -6,18 +6,17 @@ Trading, economy, piracy, and conquest game. TreacherousWaters will always be fr
 
 ## Build from Source
 
-Clone the repository:
+**Clone the repository:**
 
 `git clone https://github.com/naturallydisasterous/treacherouswaters`
 
-Run CMake and Make:
+**Run CMake:**
 
 `cmake .`
 
-`make`
+**Build for your system:**
 
-Execute:
+*Windows:* `msbuild tw.vcxproj` (May need a visual studio command prompt)
 
-**Windows:** `start tw.exe`
+*Unix-like:* `make`
 
-**UNIX Based:** `./tw`
